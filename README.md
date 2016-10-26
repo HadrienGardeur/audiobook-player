@@ -12,5 +12,5 @@ The player is a simple Web App that does the following things:
 
 ##Live Demo
 
-A live demo of the player is available at: https://hadriengardeur.github.io/audiobook-manifest/player/
+A live demo of the player is available at: https://hadriengardeur.github.io/audiobook-manifest/examples/player/
 
