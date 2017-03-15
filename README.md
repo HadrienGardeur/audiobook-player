@@ -10,7 +10,7 @@ The player is a simple Web App that does the following things:
 - skip between tracks
 - save your current position in the audiobook between sessions
 
-##Live Demo
+## Live Demo
 
 A live demo of the player is available at: https://hadriengardeur.github.io/audiobook-manifest/examples/player/
 
